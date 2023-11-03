@@ -4,12 +4,15 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
     font-family: Poppins, sans-serif;
     font-weight: 300;
     color: #2a2a2a;
+    display: flex;
+    flex-direction: column;
 }
 
 /* logo and headings */
@@ -53,4 +56,17 @@ menu, #logo {
 
 .active {
     border-bottom: 1px solid #2a2a2a;
+}
+
+/* Main content*/
+
+#main {
+    margin-top: 50px;
+}
+/* Main image */
+
+#main-image {
+    height: 500px;
+    width: 100%;
+    background: url("../images/Volleyball-cover.jpg") center center/cover no-repeat;
 }
