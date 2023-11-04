@@ -103,3 +103,14 @@ menu, #logo {
     margin-left: 10px;
     padding-left: 10px;
 }
+
+#timetable {
+    margin: 10px;
+    text-align: center;
+    float: right;
+}
+
+#timetable th, td {
+    padding-left: 5px;
+    padding-right: 5px;
+}
