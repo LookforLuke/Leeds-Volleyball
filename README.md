@@ -81,7 +81,7 @@ No unfixed Bugs
   - from the branch dropdown section, select main branch
   - from here, click save. the page then provides the link to the completed website
 
-the live link can be found here - 
+the live link can be found here - [Leeds Volleyball](https://lookforluke.github.io/Leeds-Volleyball/index.html)
 
 ## Credits
 
