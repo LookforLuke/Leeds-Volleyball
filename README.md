@@ -2,7 +2,9 @@
 
 The Leeds volleyball website is the best place for anyone aged 11 and up to find information about how to Play volleyball in Leeds.
 The club offers beginner sessions and sessions for those looking to play competitively in leagues as part of a team.  
-This website enables its' users to find out everything they need to know about how often the club meets and who it's available for, including a sign-up form.  
+This website enables its' users to find out everything they need to know about how often the club meets and who it's available for, including a sign-up form.
+
+![]()
 
 ## Features
 
@@ -51,3 +53,43 @@ This website enables its' users to find out everything they need to know about h
 ### Bugs
 
 **Solved bugs**
+
+- When I deployed to GitHub pages, i noticed the social media logo's were not showing up on the Gallery or sign up pages.
+- I discovered this was because I had not added the font awesome link to the head on these pages.
+- included the link on all head sections, problem cleared.
+
+## Validator Testing
+
+* HTML
+  - No errors returned when pasing all pages through the official W3C validator
+* CSS
+  - Mo errors returned when pasing through the official (Jigsaw) validator.
+* Accesibility
+  - By making use of lighthouse in devtools I have confirmed the colours and fonts are easy to read and accessible.
+![](assets/images/Lighthouse.png)
+
+## Unfixed Bugs
+
+No unfixed Bugs
+
+## Deployment
+
+* The site was deployed to GitHub pages.
+  - from the GitHub repository, go to the settings tab
+  - from the code and automation section, select pages
+  - from the source dropdown section, select deploy from branch
+  - from the branch dropdown section, select main branch
+  - from here, click save. the page then provides the link to the completed website
+
+the live link can be found here - 
+
+## Credits
+
+### Content
+
+- The code for the Nav hover/active classes was taken from the CI [Love running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/637be1a2e3b84b25aa33f3ab4d98603c/) Project
+-  The Code for the Social Media Links was also taken from the CI [Love runnig](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/)
+
+### Media
+
+- The image on the header, Sign up page and the images in the gallery were taken from [Pexels](https://www.pexels.com/search/volleyball/)
