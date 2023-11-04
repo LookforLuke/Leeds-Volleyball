@@ -21,10 +21,6 @@ h1, h2, h3 {
     text-align: center;
 }
 
-/*h2 {
-    text-align: center;
-}*/
-
 #logo {
     color: black;
     float: left;
@@ -75,6 +71,7 @@ menu, #logo {
 #main-image {
     height: 500px;
     width: 100%;
+    /*Image from https: //www.pexels.com/photo/group-of-people-wearing-sportswear-playing-volleyball-6203563/*/
     background: url("../images/Volleyball-cover.jpg") center center/cover no-repeat;
     position:relative;
 }
@@ -88,4 +85,20 @@ menu, #logo {
     padding-top: 5px;
     padding-bottom:5px;
     color: white;
+}
+
+/* About us */
+
+#about {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#about p {
+    font-weight: bold;
+}
+
+#about ul {
+    margin-left: 10px;
+    padding-left: 10px;
 }
