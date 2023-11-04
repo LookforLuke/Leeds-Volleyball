@@ -152,3 +152,25 @@ footer {
 #pictures > img {
     width: 100%;
 }
+
+/* Sign-up page */
+
+#sign-up-image {
+    height: 1000px;
+    width: 100%;
+    /*Image from https: //www.pexels.com/photo/women-in-gray-shirt-sitting-down-6203697/*/
+    background: url("../images/Sign-up.jpg") center center/cover no-repeat;
+    position: relative;
+}
+
+#sign-up {
+    background-color: rgba(213, 126, 234, .8);
+    position: absolute;
+    top: 125px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: left;
+    width: 235px;
+    padding: 10px;
+    color: white;
+}
