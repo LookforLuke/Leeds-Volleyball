@@ -140,3 +140,15 @@ footer {
     padding: 10px;
     color: white;
 }
+
+/* Gallery of Images*/
+
+#pictures {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+}
+
+#pictures > img {
+    width: 100%;
+}
