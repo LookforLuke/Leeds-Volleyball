@@ -4,7 +4,7 @@ The Leeds volleyball website is the best place for anyone aged 11 and up to find
 The club offers beginner sessions and sessions for those looking to play competitively in leagues as part of a team.  
 This website enables its' users to find out everything they need to know about how often the club meets and who it's available for, including a sign-up form.
 
-![]()
+![](assets/images/Responsive.png)
 
 ## Features
 
