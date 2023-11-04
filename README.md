@@ -43,3 +43,11 @@ This website enables its' users to find out everything they need to know about h
 ![](assets/images/Footer.png)
 
 ## Testing
+- I tested that this page works in OperaGX, Chrome and Firefox.
+- I have verified that the project is responsive, functional and looks good on all the standard screen sizes by using the devtools device toolbar.
+- I confirmed that all text in each section is easy to read and understand.
+- I have confirmed the forms work and require entries in the necessary fields, the email field will require an email input and the final submit button works.
+
+### Bugs
+
+**Solved bugs**
