@@ -57,6 +57,10 @@ This website enables its' users to find out everything they need to know about h
 - When I deployed to GitHub pages, i noticed the social media logo's were not showing up on the Gallery or sign up pages.
 - I discovered this was because I had not added the font awesome link to the head on these pages.
 - included the link on all head sections, problem cleared.
+  
+- When I deployed to GitHub pages, I noted that the images on the Gallery were not loading.
+- I found that I had used absolute file paths for these images
+- I removed the starting / making them relative file paths, solving the problem.
 
 ## Validator Testing
 
