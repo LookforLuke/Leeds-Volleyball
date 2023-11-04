@@ -146,11 +146,16 @@ footer {
 #pictures {
     clear: both;
     line-height: 0;
-    column-count: 3;
 }
 
 #pictures > img {
     width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    #pictures {
+        column-count: 3;
+    }
 }
 
 /* Sign-up page */
