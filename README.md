@@ -1,39 +1,45 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Leeds Volleyball
 
-Welcome,
+The Leeds volleyball website is the best place for anyone aged 11 and up to find information about how to Play volleyball in Leeds.
+The club offers beginner sessions and sessions for those looking to play competitively in leagues as part of a team.  
+This website enables its' users to find out everything they need to know about how often the club meets and who it's available for, including a sign-up form.  
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+**- Navigation**
 
-## Codeanywhere Reminders
+- The top of each page contains a navigation bar showing the club name and logo on the left which links to the home page.
+- On the right are links to Home, a gallery of images, and to the sign up page.
+- The entire navigation bar is on a white background, with black text for the logo, and dark grey for the links contrasting well.
+- The navigation bar lays out the pages and club name clearly, allowing the user to easily locate the information.
+![](assets/images/Nav-Bar.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+**-Header**
+- The header is located over the landing page image using the colour of a soft purple, the text being white.
+- This advises who the club is suitable for: both beginner and experienced players aged 11aand up.
+- The section provides information on who the club is for in a clear, aesthetic way.
+![](assets/images/Header.png)
 
-`python3 -m http.server`
+**- About Us**
+- This section provides information on the sessions available to members, along with times and prices.
+- This section clearly lays out important information that a user would need, showing what they offer for who and when.
+![](assets/images/About-us.png)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+**- The Gallery**
+- This section gives users a look into what the club members get up to and what they can expect.
+- The section shows the variety of people involved as well as the variety of play.
+![](assets/images/Gallery.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+**- The Sign Up Page**
+- The sign up page has a form to collect information from users who wish to sign up.
+- It collects the users full name, email and playing experience, if any.
+- This form section permits and encourages the user to sign up to the club so is of great value to them.
+![](assets/images/Sign-up.png)
 
-`http_server`
+**- The Footer**
+- This section encourages users to contact the club via email.
+- The footer also provides links to the club's facebook, X and instagram pages.
+- This section gives the user an opportunity to contact the club or find out further information from their social media.
+![](assets/images/Footer.png)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## Testing
